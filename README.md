@@ -37,5 +37,5 @@ Aqui estão os trabalhos que desenvolvi para aplicar a lógica de programação 
 
 ### 📬 Vamos nos conectar?
 
-* **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/kelly-carvalho-6a61b014a/)
-* **GitHub:** [github.com/k3117](https://github.com/k3117)
+* **LinkedIn:** https://www.linkedin.com/in/kelly-carvalho-6a61b014a/
+* **GitHub:** https://github.com/k3117
