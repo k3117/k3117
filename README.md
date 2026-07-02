@@ -22,7 +22,8 @@ Aqui estão os trabalhos que desenvolvi para aplicar a lógica de programação 
   * *O que treino aqui:* Testo o comportamento do fluxo do tempo, regras de transição entre janelas e a lógica de contagem regressiva.
 * **[Calculadora](https://github.com/k3117/calculadora):** Minha primeira aplicação funcional de operações matemáticas.
   * *O que treino aqui:* Validação de dados de entrada (o que acontece se o usuário clicar em botões errados), tratamento de exceções lógicas e testes de estresse em cálculos.
- **[Acesse o meu Portfólio Interativo](https://k3117.github.io/portfolio/):** Uma Landing Page moderna desenvolvida com estilo *Pop Art/Y2K*, reunindo minhas informações profissionais, principais áreas de atuação e onde você pode testar meus projetos executáveis diretamente pelo navegador.
+  
+* **[Acesse o meu Portfólio Interativo](https://k3117.github.io/portfolio/):** Uma Landing Page moderna desenvolvida com estilo *Pop Art/Y2K*, reunindo minhas informações profissionais, principais áreas de atuação e onde você pode testar meus projetos executáveis diretamente pelo navegador.
 
 ---
 
